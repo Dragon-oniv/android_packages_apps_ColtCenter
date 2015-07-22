@@ -19,6 +19,12 @@
         android:summary="@string/custom_carrier_summary"
         android:fragment="com.colt.settings.fragments.CarrierLabel" />
 
+    <com.colt.settings.preferences.SystemSettingSwitchPreference
+           android:key="status_bar_colt_logo"
+           android:title="@string/status_bar_colt_logo_title"
+           android:summary="@string/status_bar_colt_logo_summary"
+           android:defaultValue="false" />
+
 
 <PreferenceScreen
         android:fragment="com.colt.settings.fragments.NetworkTraffic"

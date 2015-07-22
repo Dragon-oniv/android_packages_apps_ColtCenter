@@ -979,4 +979,8 @@
     <string name="ticker_enabled">Notification ticker</string>
     <string name="ticker_media_enabled">Notifications and music ticker</string>
 
+    <!-- Statusbar RR logo -->
+    <string name="status_bar_colt_logo_title">Colt logo</string>
+    <string name="status_bar_colt_logo_summary">Enable to show ColtOS logo on the left side of statusbar</string>
+
  </resources>
